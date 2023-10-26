@@ -1,0 +1,45 @@
+[
+    {
+      "name": "Smart 4K LED TV",
+      "price": "899",
+      "description": "Experience breathtaking visuals with our Smart 4K LED TV. Enjoy your favorite movies and shows in stunning 4K resolution. It comes with built-in streaming apps for endless entertainment.",
+      "categories": "electronics",
+      "imageUrl": "https://example.com/tv-image.jpg"
+    },
+    {
+      "name": "Smartwatch Series 5",
+      "price": "299",
+      "description": "Stay connected and active with our latest Smartwatch Series 5. Track your fitness, receive notifications, and enjoy a sleek design that complements your style.",
+      "categories": "wearables",
+      "imageUrl": "https://example.com/smartwatch-image.jpg"
+    },
+    {
+      "name": "Gaming Laptop",
+      "price": "1499",
+      "description": "Unleash your gaming potential with our high-performance Gaming Laptop. Equipped with a powerful processor and a dedicated GPU, it's your gateway to immersive gaming experiences.",
+      "categories": "computers",
+      "imageUrl": "https://example.com/gaming-laptop-image.jpg"
+    },
+    {
+      "name": "Wireless Noise-Canceling Headphones",
+      "price": "299",
+      "description": "Immerse yourself in music with our Wireless Noise-Canceling Headphones. Block out distractions and enjoy high-quality sound on the go.",
+      "categories": "audio",
+      "imageUrl": "https://example.com/headphones-image.jpg"
+    },
+    {
+      "name": "Digital Camera Kit",
+      "price": "699",
+      "description": "Capture life's moments with precision using our Digital Camera Kit. It includes a high-resolution camera, multiple lenses, and accessories for photography enthusiasts.",
+      "categories": "cameras",
+      "imageUrl": "https://example.com/camera-image.jpg"
+    },
+    {
+      "name": "Home Security System",
+      "price": "399",
+      "description": "Protect your home with our Home Security System. Monitor your property with HD cameras, motion sensors, and remote access for peace of mind.",
+      "categories": "security",
+      "imageUrl": "https://example.com/security-system-image.jpg"
+    }
+  ]
+  
